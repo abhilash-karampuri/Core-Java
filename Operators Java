@@ -1,0 +1,66 @@
+
+Operators
+1)	Arithmetic 
+
+2)	Relational
+
+3)	Logical
+
+4)	Concatenation
+
+5)	Assignment
+
+
+1)	Arithmetic
+
+ 		+  Addition
+
+		-   Subtraction
+
+		*   Product
+
+		/    Division
+
+		++  Increment - Increase the value of operand by 1
+
+		--  Decrement - Decrease the value of operand by 1
+
+2)	Relational 
+
+==	Equals to
+
+!=	Not Equals to
+
+> 	Greater then
+
+< 	Less then
+
+>=	Greater then or Equals to
+
+<=	Less then or Equals to
+
+3)	Logical
+
+And		&&
+
+Or		 ||
+
+Not		!
+
+4)	Concatenation
+
++		Concatenate Two Different Data Type Values. 
+		And  
+		Concatenate Two Strings
+
+5)	Assignment
+
+=		X = 5 will assignee value of 5 into X
+
++=		X += 5 is equivalent to X = X + 5
+
+-=		X -= 5 is equivalent to X = X - 5
+
+*=		X *= 5 is equivalent to X = X * 5
+
+
